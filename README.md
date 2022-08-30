@@ -8,7 +8,7 @@ My name is Kirk and I am new to GitHub
 - Working on my Aerospace Engineering Degree at Iowa State University
 #### Hobbies
 - Shooting pool
-- walking
+- Walking
 - Spending time with my family (favorite)
 <!--
 **Kisu81/Kisu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

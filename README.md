@@ -1,5 +1,6 @@
-### Hi there 👋
-hkhgjjg
+### Hi there
+My name is Kirk and I am new to GitHub
+## 
 <!--
 **Kisu81/Kisu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
